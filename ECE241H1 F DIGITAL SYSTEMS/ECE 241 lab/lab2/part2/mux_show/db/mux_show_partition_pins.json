@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LEDR_port_expr0_index0",
+					"strict" : false
+				},
+				{
+					"name" : "SW_port_expr0_index1",
+					"strict" : false
+				},
+				{
+					"name" : "SW_port_expr0_index9",
+					"strict" : false
+				},
+				{
+					"name" : "SW_port_expr0_index0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

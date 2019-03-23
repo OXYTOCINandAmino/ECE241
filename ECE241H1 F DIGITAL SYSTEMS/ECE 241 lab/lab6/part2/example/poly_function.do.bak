@@ -1,0 +1,27 @@
+# set the working dir, where all compiled verilog goes
+vlib work
+
+# compile all verilog modules in mux.v to working dir
+# could also have multiple verilog files
+vlog poly_function.v
+#load simulation using mux as the top level simulation module
+
+vsim part2
+
+#log all signals and add some signals to waveform window
+log {/*}
+# add wave {/*} would add all items in top level simulation module
+add wave {/*}
+
+#	 
+force {clk} 1 0ns, 0 1ns -r 2ns 
+
+force {resetn} 0 0ns, 1 3ns
+
+force {go} 0 0ns, 1 4.5ns, 0 5.5ns, 1 6.5ns, 0 7.5ns, 1 8.5ns, 0 9.5ns, 1 10.5ns, 0 11.5ns,1 12.5ns, 0 13.5ns,1 14.5ns, 0 15.5ns, 1 16.5ns, 0 17.5ns
+
+force{datain}     5 4ns,            4 6ns,            3 8ns,            2 10ns
+
+run 20ns
+
+

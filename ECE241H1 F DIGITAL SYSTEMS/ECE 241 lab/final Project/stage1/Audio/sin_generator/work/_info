@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/final Project/Audio/sin_generator
+vsine_cos
+!s110 1542641479
+!i10b 1
+!s100 Z[YjTaCJZPzD=AW3m4Hkz3
+I9;WGF2gfM2WhoW8mH@<^d3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1542234476
+8sine_cos.v
+Fsine_cos.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1542641478.000000
+!s107 sine_cos.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|sine_cos.v|
+!i113 1
+o-timescale 1ns/1ns
+tCvgOpt 0

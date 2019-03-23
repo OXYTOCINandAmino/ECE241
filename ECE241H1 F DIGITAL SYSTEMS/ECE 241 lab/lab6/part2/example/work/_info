@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/lab6/part2/example
+vcontrol
+Z1 !s110 1540666786
+!i10b 1
+!s100 inH3om4Wgk9=VBQKFdj>X0
+IckS:mTCa2QBo0QNc7dA]c2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1540666527
+Z4 8poly_function.v
+Z5 Fpoly_function.v
+L0 92
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1540666786.000000
+Z8 !s107 poly_function.v|
+Z9 !s90 -reportprogress|300|poly_function.v|
+!i113 1
+Z10 tCvgOpt 0
+vdatapath
+R1
+!i10b 1
+!s100 2IJH@5gL1FjTTAa=@HVkL2
+Iea7oA[@c=eF?WY=j6nick3
+R2
+R0
+R3
+R4
+R5
+L0 199
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vhex_decoder
+R1
+!i10b 1
+!s100 ]hP<nf>=N8[0oKMGTmaD53
+IB_Rz>6kcI4bRRTfoPJNQ73
+R2
+R0
+R3
+R4
+R5
+L0 296
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpart2
+R1
+!i10b 1
+!s100 _:fPaZ^aQaV:mc9:R0NLA3
+IQBJQXdniOg`i<^N?=IT^>1
+R2
+R0
+R3
+R4
+R5
+L0 38
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpoly_function
+R1
+!i10b 1
+!s100 mlN6YkOTh;:8?hlOjYRoX3
+IFcNA0NYW7o9?YQVGogZV?0
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

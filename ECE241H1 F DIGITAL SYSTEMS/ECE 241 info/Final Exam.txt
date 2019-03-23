@@ -1,0 +1,21 @@
+Chapter 1: All
+
+Chapter 2: 2.1-2.8, 2.10-2.14
+
+Chapter 3: 3.1 (except octal format) and 3.2 (except 3.2.3), 3.3-3.6
+
+Chapter 4: All
+
+Chapter 5: 5.1-5.5, 5.7-5.8, 5.9.2, 5.9.3, 5.10, 5.12-5.13, 5.15
+
+Chapter 6: 6.1-6.6
+
+Chapter 7: 7.1-7.2, 7.8
+
+Appendix A on Verilog
+
+Appendix B.6.5 on FPGAs
+
+Appendix B.9 on RAM
+
+Appexdix B.1-B.3, B.5.1 on 7400-series chips, B.8.1, B.8.7, B.8.8 on transistor-level

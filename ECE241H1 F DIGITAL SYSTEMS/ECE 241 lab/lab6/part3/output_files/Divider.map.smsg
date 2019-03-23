@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at Divider.v(63): object "Remainder" differs only in case from object "remainder" in the same scope File: C:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/lab6/part3/Divider.v Line: 63
+Info (10281): Verilog HDL Declaration information at Divider.v(222): object "divident" differs only in case from object "Divident" in the same scope File: C:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/lab6/part3/Divider.v Line: 222
+Info (10281): Verilog HDL Declaration information at Divider.v(233): object "Reg_A" differs only in case from object "reg_A" in the same scope File: C:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/lab6/part3/Divider.v Line: 233

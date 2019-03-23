@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/lab4/part2
+vALU_with_Reg
+Z1 !s110 1539382103
+!i10b 1
+!s100 =69bejCW=9k7ah8lg7kEB0
+IX0da=jc5]l6YaE6g=:=ni3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1539382091
+Z4 8ALU_with_Reg.v
+Z5 FALU_with_Reg.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1539382100.000000
+Z8 !s107 ALU_with_Reg.v|
+Z9 !s90 -reportprogress|300|ALU_with_Reg.v|
+!i113 1
+Z10 tCvgOpt 0
+n@a@l@u_with_@reg
+vFA
+R1
+!i10b 1
+!s100 T1jAYFGOU=18Jz3O2]gWO0
+IXQ=8=d7ig1ClFd0<aC1@K1
+R2
+R0
+R3
+R4
+R5
+L0 196
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@f@a
+vFour_bit_adder
+R1
+!i10b 1
+!s100 GXM5mYml3mMQE<TFUdF921
+I19WK2L]DaR44Z@3PefKRa1
+R2
+R0
+R3
+R4
+R5
+L0 161
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@four_bit_adder
+vHex_decoder
+R1
+!i10b 1
+!s100 =eVHWCjc4MGEZMVORIzHR2
+I?BdZf9dZXaR;8TT3>DVng1
+R2
+R0
+R3
+R4
+R5
+L0 212
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@hex_decoder
+vHex_display
+R1
+!i10b 1
+!s100 V5YFn>__f]OQD96Ki;GeJ3
+IWOAP1@@P`oQNNJPieU=R20
+R2
+R0
+R3
+R4
+R5
+L0 203
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@hex_display
+vreg8
+R1
+!i10b 1
+!s100 5iJ_EDIYm_D?V9LVBJOmS2
+I1MdHzMnTVP31;c73nNDki2
+R2
+R0
+R3
+R4
+R5
+L0 147
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

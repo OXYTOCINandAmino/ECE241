@@ -1,0 +1,22 @@
+vlib work
+
+vlog datapath.v
+
+vsim datapath
+
+log {/*}
+
+add wave {/*}
+
+force {clk} 0 0ns, 1 1ns -r 2ns
+
+force {mode} 1
+force {go} 0 0ns, 1 5ns -r 20ns
+force {reset_address} 1 0ns, 0 10ns
+
+
+force {S} 2#10000 5, 2#01000 25, 2#00100 45
+force {P} 2#1000 5,   2#1100 25,  2#0000 45
+
+
+run 300ps

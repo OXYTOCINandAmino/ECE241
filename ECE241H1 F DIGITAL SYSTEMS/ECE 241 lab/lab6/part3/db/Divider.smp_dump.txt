@@ -1,0 +1,12 @@
+
+State Machine - |Divider|part3:u0|control:C0|current_state
+Name current_state.Load_Back_3 current_state.Operate_3 current_state.Load_Back_2 current_state.Operate_2 current_state.Load_Back_1 current_state.Operate_1 current_state.S_LOAD_WAIT current_state.S_LOAD current_state.Operate_Final 
+current_state.S_LOAD 0 0 0 0 0 0 0 0 0 
+current_state.S_LOAD_WAIT 0 0 0 0 0 0 1 1 0 
+current_state.Operate_1 0 0 0 0 0 1 0 1 0 
+current_state.Load_Back_1 0 0 0 0 1 0 0 1 0 
+current_state.Operate_2 0 0 0 1 0 0 0 1 0 
+current_state.Load_Back_2 0 0 1 0 0 0 0 1 0 
+current_state.Operate_3 0 1 0 0 0 0 0 1 0 
+current_state.Load_Back_3 1 0 0 0 0 0 0 1 0 
+current_state.Operate_Final 0 0 0 0 0 0 0 1 1 

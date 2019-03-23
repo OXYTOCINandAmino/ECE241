@@ -1,0 +1,17 @@
+建造project：
+project名和top level module名一致
+板子选择：5CSEMA5F31C6
+
+添加PIN文件：
+
+建造V文件：
+File>New>Verilog HDL File>OK
+添加文件：
+Project>Add/Remove File in Project
+
+保存：
+File>Save as> 选Verilog HDL File>选Add File to current project>Save
+导入PIN文件：
+
+运行：
+Processing>Start Compilation

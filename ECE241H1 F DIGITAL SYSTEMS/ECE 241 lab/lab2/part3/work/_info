@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/think/Desktop/U of T/ECE241H1 F DIGITAL SYSTEMS/ECE 241 lab/lab2/part3
+vHex_decoder
+Z1 !s110 1537803410
+!i10b 1
+!s100 kPU<>C74Vzl?AdcHfPY>51
+I^1iY:5<B1Wg?Pj0;1b84m3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1537800315
+Z4 8Hex_display.v
+Z5 FHex_display.v
+L0 14
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1537803410.000000
+Z8 !s107 Hex_display.v|
+Z9 !s90 -reportprogress|300|Hex_display.v|
+!i113 1
+Z10 tCvgOpt 0
+n@hex_decoder
+vHex_display
+R1
+!i10b 1
+!s100 Z_ZCeWNAIUfR76GCco31<1
+I8gCln@hO5MIZVU[Qg^Pbl3
+R2
+R0
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@hex_display
